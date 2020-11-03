@@ -1,0 +1,37 @@
+PROJECT DESCRIPTION
+
+Indian Premier League (IPL), Indian professional Twenty20 (T20) cricket league established in 2008. The league, which is based on a round-robin group and knockout format, has teams in major Indian cities. The brainchild of the Board of Control for Cricket in India (BCCI), the IPL has developed into the most lucrative and most popular outlet for the game of cricket.
+
+We have covered the basic analysis from IPL 2008 to IPL 2018.
+
+	- Number of matches each season
+	- Number of matches in each venue
+	- Number of matches played by each team
+	- Number of wins per team
+	- Top players of the match
+	- How lucky are the toss winning teams?
+	- Batsman analysis
+	- Number of 4's
+	- Number of 6's
+	- Top run scorers
+	- Number of half-centuries by each batsman
+	- Number of centuries by each batsman
+	- Comparison of teams
+	- Batsman who has played the most number of dot balls.
+	- Most common dismissal types in IPL
+	- Bowler analysis
+
+INSPIRATION
+
+Draw analysis, player/team performance, apply and learn statistical methods on real data
+
+ABOUT THE DATASET
+
+Data till Season 11 (2008 - 2019)
+matches.csv - Match by match data
+deliveries.csv - Ball by ball data
+
+ACKNOWLEDGEMENTS
+
+Data source from 2008-2017 - CricSheet.org and Manas - Kaggle
+Data source for 2018-2019 - IPL T20 - Official website
