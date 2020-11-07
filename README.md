@@ -29,6 +29,14 @@ Data till Season 11 (2008 - 2019)
 matches.csv - Match by match data
 deliveries.csv - Ball by ball data
 
+### TOOLS & LIBRARIES USED
+Python
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Plotly
+
 ### ACKNOWLEDGEMENTS
 Data source from 2008-2017 - CricSheet.org and Manas - Kaggle
 Data source for 2018-2019 - IPL T20 - Official website
