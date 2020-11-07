@@ -30,12 +30,7 @@ matches.csv - Match by match data
 deliveries.csv - Ball by ball data
 
 ### TOOLS & LIBRARIES USED
-Python
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Plotly
+Python, Numpy, Pandas, Matplotlib, Seaborn and Plotly
 
 ### ACKNOWLEDGEMENTS
 Data source from 2008-2017 - CricSheet.org and Manas - Kaggle
